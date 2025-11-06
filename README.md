@@ -85,23 +85,23 @@ lib/
 ## 🛠️ Technical Stack
 
 ### Core Technologies
-- **Flutter SDK**: ^3.x.x
-- **Dart**: ^3.x.x
+- **Flutter SDK**
+- **Dart**
 
 ### State Management
-- **flutter_bloc**: ^8.x.x - BLoC pattern implementation
-- **freezed**: ^2.x.x - Code generation for unions/pattern matching
-- **freezed_annotation**: ^2.x.x
+- **flutter_bloc** - BLoC pattern implementation
+- **freezed** - Code generation for unions/pattern matching
+- **freezed_annotation**
 
 ### Functional Programming
-- **dartz**: ^0.10.x - Either type for error handling
+- **dartz** - Either type for error handling
 
 ### Network
-- **http**: ^1.x.x - HTTP client for API calls
+- **http** - HTTP client for API calls
 - **Google Books API** - RESTful API for book data
 
 ### Routing
-- **auto_route**: ^7.x.x - Declarative routing solution
+- **auto_route** - Declarative routing solution
 
 ### Code Generation
 - **build_runner** - Build system for code generation
