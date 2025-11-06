@@ -16,20 +16,6 @@ Watch the app in action:
 
 **[▶️ Watch Demo Video](https://jumpshare.com/share/VmwOyEeYjducERPvqcgI)**
 
-### Alternative Video Formats
-
-If you have the video hosted elsewhere, you can use:
-
-**For direct video files (MP4, WebM):**
-```markdown
-https://user-images.githubusercontent.com/YOUR_USER_ID/your-video-file.mp4
-```
-
-**For GIF demos:**
-```markdown
-![App Demo](link-to-your-gif.gif)
-```
-
 ---
 
 ## 🏗️ Architecture
