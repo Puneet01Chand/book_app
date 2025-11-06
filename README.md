@@ -14,9 +14,7 @@ Watch the app in action:
 
 [![Books App Demo](https://jumpshare.com/share/Vq9gmfQEsmzJ0LNitpD1)](https://jumpshare.com/share/VmwOyEeYjducERPvqcgI)
 
-**[▶️ Watch Demo Video](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)**
-
-> **Note:** Replace `YOUR_VIDEO_ID` with your actual YouTube video ID from the URL (e.g., if your URL is `https://www.youtube.com/watch?v=dQw4w9WgXcQ`, use `dQw4w9WgXcQ`)
+**[▶️ Watch Demo Video](https://jumpshare.com/share/VmwOyEeYjducERPvqcgI)**
 
 ### Alternative Video Formats
 
